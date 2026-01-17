@@ -15,7 +15,7 @@ Follow the steps below to set up and run this project on your local machine.
 ```bash
 git clone 
 cd genai-mini-projects
-cd document_similarity
+cd document-similarity
 ```
 
 ### 2️⃣ Create a Virtual Environment
